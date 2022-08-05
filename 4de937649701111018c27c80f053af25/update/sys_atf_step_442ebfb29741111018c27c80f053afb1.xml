@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Confirm that at least the following modules are visible in UI16: All Drinks</description>
+        <display_name>Module Visibility</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>3</order>
+        <snapshot/>
+        <step_config display_value="Module Visibility">f7cfc1973702030064a52f3c8e41f1d3</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-05 16:30:54</sys_created_on>
+        <sys_id>442ebfb29741111018c27c80f053afb1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Module Visibility</sys_name>
+        <sys_package display_value="Coffee Shop" source="x_791168_coffee_sh">4de937649701111018c27c80f053af25</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coffee Shop">4de937649701111018c27c80f053af25</sys_scope>
+        <sys_update_name>sys_atf_step_442ebfb29741111018c27c80f053afb1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-05 16:30:54</sys_updated_on>
+        <table/>
+        <test display_value="Navigation">80ac3b729741111018c27c80f053af2a</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=442ebfb29741111018c27c80f053afb1"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>442ebfb29741111018c27c80f053afb1</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-05 16:30:54</sys_created_on>
+        <sys_id>343e73f29741111018c27c80f053af20</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-05 16:30:54</sys_updated_on>
+        <value>ui16</value>
+        <variable display_value="Navigator">b4e438ae73322010ac1560bdfaf6a7a2</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>442ebfb29741111018c27c80f053afb1</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-05 16:30:54</sys_created_on>
+        <sys_id>703e73f29741111018c27c80f053af20</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-05 16:30:54</sys_updated_on>
+        <value>at_least_modules_not_visible</value>
+        <variable display_value="Not visible assert type">8570e0e33756030064a52f3c8e41f16c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>442ebfb29741111018c27c80f053afb1</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-05 16:30:54</sys_created_on>
+        <sys_id>b83e73f29741111018c27c80f053af20</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-05 16:30:54</sys_updated_on>
+        <value>cdbbfb329741111018c27c80f053af45</value>
+        <variable display_value="Visible modules">4a3319d73702030064a52f3c8e41f1a9</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>442ebfb29741111018c27c80f053afb1</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-05 16:30:54</sys_created_on>
+        <sys_id>bc3e73f29741111018c27c80f053af1f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-05 16:30:54</sys_updated_on>
+        <value>at_least_modules_visible</value>
+        <variable display_value="Visible assert type">90749dd73702030064a52f3c8e41f12d</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>442ebfb29741111018c27c80f053afb1</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-05 16:30:54</sys_created_on>
+        <sys_id>f43e73f29741111018c27c80f053af20</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-05 16:30:54</sys_updated_on>
+        <value/>
+        <variable display_value="Not visible modules">932d14a33756030064a52f3c8e41f120</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_f7cfc1973702030064a52f3c8e41f1d3^id=442ebfb29741111018c27c80f053afb1"/>
+</record_update>
