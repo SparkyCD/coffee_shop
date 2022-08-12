@@ -3,65 +3,65 @@
         <active>true</active>
         <copied_from/>
         <description>First name = Coffee Shop
-Last name = User
-Role = x_791168_coffee_sh.user</description>
-        <order>2</order>
+Last name = Admin
+Role = x_791168_coffee_sh.admin</description>
+        <order>1</order>
         <parameters/>
         <sys_class_name>sys_atf_parameter_set</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-08-05 16:42:41</sys_created_on>
-        <sys_id>5fc0c8479741111018c27c80f053af26</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>2</sys_name>
+        <sys_created_on>2022-08-12 16:56:53</sys_created_on>
+        <sys_id>e147045d979111105b4c747e6253af73</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
         <sys_package display_value="Coffee Shop" source="x_791168_coffee_sh">4de937649701111018c27c80f053af25</sys_package>
         <sys_policy/>
         <sys_scope display_value="Coffee Shop">4de937649701111018c27c80f053af25</sys_scope>
-        <sys_update_name>sys_atf_parameter_set_5fc0c8479741111018c27c80f053af26</sys_update_name>
+        <sys_update_name>sys_atf_parameter_set_e147045d979111105b4c747e6253af73</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-12 16:55:33</sys_updated_on>
-        <test display_value="Navigation">80ac3b729741111018c27c80f053af2a</test>
+        <sys_updated_on>2022-08-12 16:56:53</sys_updated_on>
+        <test display_value="ACL">82820c879741111018c27c80f053af06</test>
     </sys_atf_parameter_set>
-    <sys_variable_value action="delete_multiple" query="document_key=5fc0c8479741111018c27c80f053af26"/>
+    <sys_variable_value action="delete_multiple" query="document_key=e147045d979111105b4c747e6253af73"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_parameter_set</document>
-        <document_key>5fc0c8479741111018c27c80f053af26</document_key>
+        <document_key>e147045d979111105b4c747e6253af73</document_key>
         <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-08-05 16:42:41</sys_created_on>
-        <sys_id>5de008479741111018c27c80f053af33</sys_id>
+        <sys_created_on>2022-08-12 16:56:53</sys_created_on>
+        <sys_id>6147085d979111105b4c747e6253af15</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-05 16:42:41</sys_updated_on>
-        <value>User</value>
-        <variable display_value="Last name">b28084479741111018c27c80f053af47</variable>
+        <sys_updated_on>2022-08-12 16:56:53</sys_updated_on>
+        <value>Admin</value>
+        <variable display_value="Last name">cc05444b9741111018c27c80f053afb9</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_parameter_set</document>
-        <document_key>5fc0c8479741111018c27c80f053af26</document_key>
+        <document_key>e147045d979111105b4c747e6253af73</document_key>
         <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-08-05 16:42:41</sys_created_on>
-        <sys_id>99e008479741111018c27c80f053af33</sys_id>
+        <sys_created_on>2022-08-12 16:56:53</sys_created_on>
+        <sys_id>ad47085d979111105b4c747e6253af14</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-05 16:42:41</sys_updated_on>
-        <value>680cbfa49701111018c27c80f053af21</value>
-        <variable display_value="Role">0ca008479741111018c27c80f053af2d</variable>
+        <sys_updated_on>2022-08-12 16:56:53</sys_updated_on>
+        <value>dfd44c59979111105b4c747e6253af64</value>
+        <variable display_value="Role">8186048b9741111018c27c80f053af1f</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_parameter_set</document>
-        <document_key>5fc0c8479741111018c27c80f053af26</document_key>
+        <document_key>e147045d979111105b4c747e6253af73</document_key>
         <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-08-05 16:42:41</sys_created_on>
-        <sys_id>d5e008479741111018c27c80f053af33</sys_id>
+        <sys_created_on>2022-08-12 16:56:53</sys_created_on>
+        <sys_id>e947085d979111105b4c747e6253af14</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-05 16:42:41</sys_updated_on>
+        <sys_updated_on>2022-08-12 16:56:53</sys_updated_on>
         <value>Coffee Shop</value>
-        <variable display_value="First name">635040479741111018c27c80f053af9a</variable>
+        <variable display_value="First name">a6e4c04b9741111018c27c80f053afdf</variable>
     </sys_variable_value>
 </record_update>

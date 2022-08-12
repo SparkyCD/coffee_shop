@@ -4,28 +4,28 @@
         <copied_from/>
         <description>Validate there is at least one record in 'sys_group_has_role' matching query:
 Role = {{Step 1: Record Query.First record}}
-and Group = {{Step 4: Record Query.First record}}
+and Group = {{Step 6: Record Query.First record}}
 With a failure timeout of 5 Seconds</description>
         <display_name>Record Query</display_name>
         <inputs/>
         <inputs/>
         <mugshots_cache_json/>
         <notes/>
-        <order>6</order>
+        <order>8</order>
         <snapshot/>
         <step_config display_value="Record Query">2d82e3c7531400109e02ddeeff7b12a7</step_config>
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-08-03 16:45:05</sys_created_on>
         <sys_id>590e691e970111105b4c747e6253af3e</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>15</sys_mod_count>
         <sys_name>Record Query</sys_name>
         <sys_package display_value="Coffee Shop" source="x_791168_coffee_sh">4de937649701111018c27c80f053af25</sys_package>
         <sys_policy/>
         <sys_scope display_value="Coffee Shop">4de937649701111018c27c80f053af25</sys_scope>
         <sys_update_name>sys_atf_step_590e691e970111105b4c747e6253af3e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-03 17:00:26</sys_updated_on>
+        <sys_updated_on>2022-08-12 16:50:27</sys_updated_on>
         <table>sys_group_has_role</table>
         <test display_value="Environment">fb13d3619781111018c27c80f053af33</test>
         <timeout>1970-01-01 00:00:05</timeout>

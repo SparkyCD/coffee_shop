@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_791168_coffee_sh.barista" name="x_791168_coffee_sh.barista">c52cf7a49701111018c27c80f053af72</contains>
+        <role display_value="x_791168_coffee_sh.admin" name="x_791168_coffee_sh.admin">dfd44c59979111105b4c747e6253af64</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-12 16:51:51</sys_created_on>
+        <sys_id>ff06001d979111105b4c747e6253afc9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_791168_coffee_sh.barista.x_791168_coffee_sh.admin</sys_name>
+        <sys_package display_value="Coffee Shop" source="x_791168_coffee_sh">4de937649701111018c27c80f053af25</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coffee Shop">4de937649701111018c27c80f053af25</sys_scope>
+        <sys_update_name>sys_user_role_contains_ff06001d979111105b4c747e6253afc9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-12 16:51:51</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
