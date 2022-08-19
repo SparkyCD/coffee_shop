@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Coffee Drink" max_length="40" name="x_791168_coffee_sh_coffee_drink" type="collection">
+    <element label="Coffee Drink" max_length="40" name="x_791168_coffee_sh_coffee_drink" sizeclass="0" type="collection">
         <element label="Carbohydrate" max_length="40" name="carbohydrate" type="integer"/>
         <element label="Fat" max_length="40" name="fat" type="integer"/>
         <element label="Fiber" max_length="40" name="fiber" type="integer"/>
