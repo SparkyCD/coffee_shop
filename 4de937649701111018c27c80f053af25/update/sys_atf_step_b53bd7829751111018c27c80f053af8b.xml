@@ -5,6 +5,10 @@
         <description>Update a record in 'x_791168_coffee_sh_coffee_drink' with the following values:
 Name = World
 and Carbohydrate = 123
+and Fat = 100
+and Fiber = 100
+and Protein = 100
+and Short Description = hot
 Confirm the record was successfully updated</description>
         <display_name>Record Update</display_name>
         <inputs/>
@@ -18,14 +22,14 @@ Confirm the record was successfully updated</description>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-08-15 16:18:20</sys_created_on>
         <sys_id>b53bd7829751111018c27c80f053af8b</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Record Update</sys_name>
         <sys_package display_value="Coffee Shop" source="x_791168_coffee_sh">4de937649701111018c27c80f053af25</sys_package>
         <sys_policy/>
         <sys_scope display_value="Coffee Shop">4de937649701111018c27c80f053af25</sys_scope>
         <sys_update_name>sys_atf_step_b53bd7829751111018c27c80f053af8b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-15 16:18:20</sys_updated_on>
+        <sys_updated_on>2022-08-26 15:53:24</sys_updated_on>
         <table>x_791168_coffee_sh_coffee_drink</table>
         <test display_value="ACL - admin">613bd7829751111018c27c80f053af0d</test>
         <timeout/>
@@ -54,10 +58,10 @@ Confirm the record was successfully updated</description>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-08-15 16:18:20</sys_created_on>
         <sys_id>753bd7829751111018c27c80f053af8d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-15 16:18:20</sys_updated_on>
-        <value>name=World^carbohydrate=123^EQ</value>
+        <sys_updated_on>2022-08-26 15:53:24</sys_updated_on>
+        <value>name=World^carbohydrate=123^fat=100^fiber=100^protein=100^short_description=hot^EQ</value>
         <variable display_value="Field values">bc4c43935320220002c6435723dc34a2</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -103,6 +107,18 @@ Confirm the record was successfully updated</description>
         <variable display_value="Enforce security">46dbcb535320220002c6435723dc3409</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=b53bd7829751111018c27c80f053af8b"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>field_values</field>
+        <id>b53bd7829751111018c27c80f053af8b</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-26 15:53:24</sys_created_on>
+        <sys_id>840fbf6197a1111018c27c80f053afd6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-26 15:53:24</sys_updated_on>
+        <table>var__m_atf_input_variable_17a72288df60220062fe6c7a4df26397</table>
+        <value/>
+    </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>record_id</field>
         <id>b53bd7829751111018c27c80f053af8b</id>

@@ -5,6 +5,10 @@
         <description>Validate record from table 'x_791168_coffee_sh_coffee_drink' matches the following condition:
 Name = World
 and Carbohydrate = 123
+and Fat = 100
+and Fiber = 100
+and Protein = 100
+and Short Description = hot
 With a failure timeout of 5 Seconds</description>
         <display_name>Record Validation</display_name>
         <inputs/>
@@ -18,16 +22,16 @@ With a failure timeout of 5 Seconds</description>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-08-12 16:41:28</sys_created_on>
         <sys_id>57838459979111105b4c747e6253af71</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Record Validation</sys_name>
         <sys_package display_value="Coffee Shop" source="x_791168_coffee_sh">4de937649701111018c27c80f053af25</sys_package>
         <sys_policy/>
         <sys_scope display_value="Coffee Shop">4de937649701111018c27c80f053af25</sys_scope>
         <sys_update_name>sys_atf_step_57838459979111105b4c747e6253af71</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-12 16:41:28</sys_updated_on>
+        <sys_updated_on>2022-08-26 15:55:22</sys_updated_on>
         <table>x_791168_coffee_sh_coffee_drink</table>
-        <test display_value="ACL">82820c879741111018c27c80f053af06</test>
+        <test display_value="ACL - barista">82820c879741111018c27c80f053af06</test>
         <timeout>1970-01-01 00:00:05</timeout>
         <warning_message/>
     </sys_atf_step>
@@ -82,10 +86,10 @@ With a failure timeout of 5 Seconds</description>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-08-12 16:41:28</sys_created_on>
         <sys_id>afb34059979111105b4c747e6253af62</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-12 16:41:28</sys_updated_on>
-        <value>name=World^carbohydrate=123^EQ</value>
+        <sys_updated_on>2022-08-26 15:55:22</sys_updated_on>
+        <value>name=World^carbohydrate=123^fat=100^fiber=100^protein=100^short_description=hot^EQ</value>
         <variable display_value="Field values">ff6e125353a0220002c6435723dc3442</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
