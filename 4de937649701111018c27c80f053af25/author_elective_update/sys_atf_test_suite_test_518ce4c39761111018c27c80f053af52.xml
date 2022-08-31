@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test">
+    <sys_atf_test_suite_test action="DELETE">
+        <abort_on_failure>false</abort_on_failure>
+        <order/>
+        <sys_class_name>sys_atf_test_suite_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-30 16:24:51</sys_created_on>
+        <sys_id>518ce4c39761111018c27c80f053af52</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f9ebe0839761111018c27c80f053affc</sys_name>
+        <sys_package display_value="Coffee Shop" source="x_791168_coffee_sh">4de937649701111018c27c80f053af25</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coffee Shop">4de937649701111018c27c80f053af25</sys_scope>
+        <sys_update_name>sys_atf_test_suite_test_518ce4c39761111018c27c80f053af52</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-30 16:24:51</sys_updated_on>
+        <test display_value="ACL - admin - Order">f9ebe0839761111018c27c80f053affc</test>
+        <test_suite display_value="ACL">b5974ce39751111018c27c80f053afba</test_suite>
+    </sys_atf_test_suite_test>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coffee Shop">4de937649701111018c27c80f053af25</application>
+        <file_path/>
+        <instance_id>8f3ad054db17ec90ad8dd7c8f4961930</instance_id>
+        <instance_name>dev109180</instance_name>
+        <name>sys_atf_test_suite_test_518ce4c39761111018c27c80f053af52</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test"><sys_atf_test_suite_test action="INSERT_OR_UPDATE"><abort_on_failure>false</abort_on_failure><order/><sys_class_name>sys_atf_test_suite_test</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-30 16:24:51</sys_created_on><sys_id>518ce4c39761111018c27c80f053af52</sys_id><sys_mod_count>0</sys_mod_count><sys_name>f9ebe0839761111018c27c80f053affc</sys_name><sys_package display_value="Coffee Shop" source="x_791168_coffee_sh">4de937649701111018c27c80f053af25</sys_package><sys_policy/><sys_scope display_value="Coffee Shop">4de937649701111018c27c80f053af25</sys_scope><sys_update_name>sys_atf_test_suite_test_518ce4c39761111018c27c80f053af52</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-30 16:24:51</sys_updated_on><test display_value="ACL - admin - Order">f9ebe0839761111018c27c80f053affc</test><test_suite display_value="ACL">b5974ce39751111018c27c80f053afba</test_suite></sys_atf_test_suite_test></record_update>]]></payload>
+        <payload_hash>787027930</payload_hash>
+        <record_name>f9ebe0839761111018c27c80f053affc</record_name>
+        <reverted_from/>
+        <source>70ca7fe09701111018c27c80f053afbd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-30 16:24:51</sys_created_on>
+        <sys_id>bb8c60c39761111018c27c80f053af19</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182ef91e3a40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-30 16:24:51</sys_updated_on>
+        <type>Test Suite Test</type>
+        <update_guid>f38c60c3586111107010ce024fadd619</update_guid>
+        <update_guid_history>f38c60c3586111107010ce024fadd619:787027930</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-31 15:47:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_test_suite_test">sys_atf_test_suite_test</sys_db_object>
+        <sys_id>28e3ada31e33404b8bba9d8a626358d9</sys_id>
+        <sys_metadata>518ce4c39761111018c27c80f053af52</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f9ebe0839761111018c27c80f053affc</sys_name>
+        <sys_package display_value="Coffee Shop" source="x_791168_coffee_sh">4de937649701111018c27c80f053af25</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Coffee Shop">4de937649701111018c27c80f053af25</sys_scope>
+        <sys_scope_delete display_value="">4bfc9a31494d440285f4d404d2ae31a4</sys_scope_delete>
+        <sys_update_name>sys_atf_test_suite_test_518ce4c39761111018c27c80f053af52</sys_update_name>
+        <sys_update_version display_value="sys_atf_test_suite_test_518ce4c39761111018c27c80f053af52">bb8c60c39761111018c27c80f053af19</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-31 15:47:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
